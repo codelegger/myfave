@@ -46,3 +46,7 @@ If the script updates your shell startup file, re-source it (`source ~/.zshrc`) 
 
 For shared testing, Vercel preview deployments via pull requests give the quickest turn-around.
 
+## Further Reading
+
+- [Architecture & Growth Guide](docs/architecture.md) – rationale for the current structure, route map, and roadmap for scaling this MyFave clone.
+
