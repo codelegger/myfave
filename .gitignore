@@ -1,0 +1,20 @@
+node_modules/
+.pnpm-store/
+.next/
+dist/
+out/
+coverage/
+playwright-report/
+test-results/
+.turbo/
+# Build metadata
+tsconfig.tsbuildinfo
+# Env files
+.env
+.env.*
+.DS_Store
+pnpm-debug.log
+.vercel/
+.idea/
+.vscode/
+
